@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\bookmarksSolo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bookmarksSolo"
+	}
+}
